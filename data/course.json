@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ]
+  ],
+  "legacy_uid": "de52ac83-087d-a68d-4606-e04361f6ce74",
+  "instructors": {
+    "content": [
+      "99e83131-7b8e-e6c8-5193-a34d7183293e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a630b104-d14a-a6c8-4bf5-07521f2134d3",
+    "website": "21l-707-arthurian-literature-and-celtic-colonization-spring-2005"
+  },
+  "course_title": "Arthurian Literature and Celtic Colonization",
+  "course_description": "The course examines the earliest emergence of stories about King Arthur and the Knights of the Round Table in the context of the first wave of British Imperialism and the expanded powers of the Catholic Church during the twelfth and thirteenth centuries. The morphology of Arthurian romance will be set off against original historical documents and chronicle sources for the English conquests in Brittany, Wales, Scotland, and Ireland to understand the ways in which these new attitudes towards Empire were being mythologized. Authors will include Bede, Geoffrey of Monmouth, Chr\u00e9tien de Troyes, Marie de France, Gerald of Wales, together with some lesser known works like the _Perilous Graveyard_, _the_ _Knight\u00a0with the Sword_, and _Perlesvaus_, or _the High History of the Holy Graal_. Special attention will be paid to how the narrative material of the story gets transformed according to the particular religious and political agendas of each new author.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.707",
+  "course_image_thumbnail": {
+    "content": "081c702a-f272-cc93-1a83-809f24c8a387",
+    "website": "21l-707-arthurian-literature-and-celtic-colonization-spring-2005"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "9c0e191f-69c7-4be6-8df6-34895dc8a4da",
+  "site_short_id": "21l.707-spring-2005",
+  "title": "Course Metadata"
+}
